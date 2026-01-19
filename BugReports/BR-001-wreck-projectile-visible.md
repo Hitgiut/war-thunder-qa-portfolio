@@ -1,5 +1,3 @@
-
-
 - **Game:** War Thunder
 - **Platform:** PC (Windows)
 - **Mode:** Ground Battles (Realistic)
@@ -43,3 +41,6 @@ Visual artifact that may be distracting and can reveal hit location details on t
 ### **Attachments**
 
 2 screenshots (zoomed-in vs normal distance)
+
+- [BR-001 – Zoomed-in](Media/BR-001/zoom.jpg)
+- [BR-001 – Normal-Distance](Media/BR-001/no-zoom.jpg)
