@@ -1,10 +1,12 @@
-**Game**: War Thunder
-**Platform:** PC (Windows)
-**Mode:** Ground Battles (Realistic)
-**Camera:** Gun sight / Binoculars
-**Map:** [Domination #1] Test Site-2271
-**Your Vehicle:** Sd.Kfz.234/2
-**Build/Version:** 2.53.0.52
+
+
+- **Game:** War Thunder
+- **Platform:** PC (Windows)
+- **Mode:** Ground Battles (Realistic)
+- **Camera:** Gun sight / Binoculars
+- **Map:** [Domination #1] Test Site-2271
+- **Your Vehicle:** Sd.Kfz.234/2
+- **Build/Version:** 2.53.0.52
 
 ### **Description**
 
