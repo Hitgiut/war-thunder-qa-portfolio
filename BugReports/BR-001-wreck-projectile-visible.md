@@ -38,9 +38,11 @@ Minor (Visual)
 
 Visual artifact that may be distracting and can reveal hit location details on the wreck.
 
+
 ### **Attachments**
 
-2 screenshots (zoomed-in vs normal distance)
+**Zoomed-in**
+![BR-001 Zoomed-in](../Media/BR-001/zoom.jpg)
 
-- [BR-001 – Zoomed-in](Media/BR-001/zoom.jpg)
-- [BR-001 – Normal-Distance](Media/BR-001/no-zoom.jpg)
+**Normal distance**
+![BR-001 Normal Distance](../Media/BR-001/no-zoom.jpg)
