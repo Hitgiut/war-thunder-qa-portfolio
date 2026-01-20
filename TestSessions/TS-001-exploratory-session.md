@@ -16,7 +16,7 @@
 
 1. Changed graphics settings, applied, restarted game → PASS
 2. Replay opened and tested camera switching/speed controls → PASS
-3. Binoculars/gun sight zoom near wrecks and objects → PASS
+3. Binoculars/gun sight zoom near wrecks and objects → FAIL (Known Issue: BR-001)
 4. Alt-tab stress test during match → PASS
 
 ## Findings
