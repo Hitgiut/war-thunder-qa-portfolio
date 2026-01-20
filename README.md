@@ -18,6 +18,7 @@ Includes bug reports with reproduction steps, expected/actual results, severity,
 ## Fix Verification (Patch Notes)
 
 - ✅ [FIX-001 – Radar can no longer acquire submerged ships](FixVerification/FIX-001-radar-submerged-ships.md)
+- ✅ [FIX-002 – Helicoper optics camera jump](FixVerification/FIX-002-heli-optics-camera.md)
 
 ## Test Session
 
