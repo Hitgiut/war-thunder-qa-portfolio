@@ -11,3 +11,6 @@ Includes bug reports with reproduction steps, expected/actual results, severity,
 
 ## Test Cases
 (coming soon)
+
+## Test Session
+- [TS-001](TestSessions/TS-001-exploratory-session.md)
