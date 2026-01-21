@@ -1,3 +1,5 @@
+# BR-001 – Report: Destroyed tank shows projectile/impact model when zooming
+
 - **Game:** War Thunder
 - **Platform:** PC (Windows)
 - **Mode:** Ground Battles (Realistic)
@@ -37,7 +39,6 @@ Minor (Visual)
 ### **Impact**
 
 Visual artifact that may be distracting and can reveal hit location details on the wreck.
-
 
 ### **Attachments**
 

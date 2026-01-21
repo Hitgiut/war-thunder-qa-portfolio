@@ -1,3 +1,5 @@
+# BR-002 – Report: German flag icon does not display
+
 - **Game:** War Thunder
 - **Platform:** PC (Windows)
 - **Mode:
