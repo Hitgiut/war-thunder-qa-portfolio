@@ -6,7 +6,7 @@
 - **Camera:** Third-person / Free camera
 - **Map:** [Domination #1] American Desert
 - **Your Vehicle:** Panther D
-- **Build/Version:** ? (date: 04/02/2026 7PM GMT)
+- **Build/Version:** Approx. Build 21750353 (active on 04/02/2026 19:14 GMT)
 
 ### **Description**
 
