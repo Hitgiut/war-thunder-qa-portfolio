@@ -7,6 +7,7 @@ Includes bug reports with reproduction steps, expected/actual results, severity,
 
 - [BR-001 – Destroyed tank shows projectile/impact model when zooming](BugReports/BR-001-wreck-projectile-visible.md)
 - [BR-002 – German flag icon does not display](BugReports/BR-002-germany-flag-missing-in-lobby.md)
+- [BR-003 – Floating Object in the sky](BugReports/BR-003-floating-object-in-the-sky.md)
 
 ## Test Plan
 
