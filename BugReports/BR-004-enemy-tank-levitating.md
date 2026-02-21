@@ -3,7 +3,7 @@
 - **Game:** War Thunder
 - **Platform:** PC (Windows)
 - **Mode:** Ground Battles (Realistic)
-- **Camera:** first-person / Binocular camera
+- **Camera:** Gun sight / Binoculars
 - **Map:** [Domination #1] Sands of Sinai
 - **Your Vehicle:** Waffenträger
 - **Build/Version:** Approx. Build 21750353 (active on 04/02/2026 19:21GMT)
