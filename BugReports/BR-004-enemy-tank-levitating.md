@@ -10,7 +10,7 @@
 
 ### **Description**
 
-An enemy tank appear "flying" above the terrain instead if staying on the ground. The tank hover above the map, moving along their intended path but ignoring terrain constraints.
+An enemy tank appears to be flying above the terrain instead of staying on the ground. The tank hover above the map, moving along their intended path but ignoring terrain constraints.
 
 ### **Steps to Reproduce**
 
