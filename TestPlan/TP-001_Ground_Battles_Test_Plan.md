@@ -6,7 +6,7 @@
 - **Project:** War Thunder QA Portfolio  
 - **Author:** Diogo Martins  
 - **Version:** 1.0  
-- **Date:** [Insert Date]  
+- **Date:** 23/02/2026  
 - **Game:** War Thunder  
 - **Platform:** PC (Windows)  
 - **Mode:** Ground Battles (Realistic)
@@ -53,7 +53,7 @@ Main goals:
 - **Game Mode:** Ground Battles (Realistic)
 - **Build Version:** Latest available during testing
 - **Network:** Stable internet connection
-- **Graphics Settings:** Medium–High
+- **Graphics Settings:** Low
 
 ---
 
