@@ -12,11 +12,11 @@ Includes bug reports with reproduction steps, expected/actual results, severity,
 
 ## Test Plan
 
-(coming soon)
+- [TP-001 – Ground Battles](TestPlan/TP-001_Ground_Battles_Test_Plan.md)
 
 ## Test Cases
 
-(coming soon)
+- [TC – 20 Cases of Ground Battles CoreGameplay](TestCases/TC_GroundBattles_CoreGameplay.md)
 
 ## Fix Verification (Patch Notes)
 

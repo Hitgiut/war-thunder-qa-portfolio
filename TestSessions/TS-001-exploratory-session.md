@@ -15,9 +15,9 @@
 ## Test Scenarios
 
 1. Changed graphics settings, applied, restarted game → PASS
-2. Replay opened and tested camera switching/speed controls → PASS
-3. Binoculars/gun sight zoom near wrecks and objects → FAIL (Known Issue: BR-001)
-4. Alt-tab stress test during match → PASS
+2. Replay opened and tested camera switching/speed controls → [TC-018](../TestCases/TC_GroundBattles_CoreGameplay.md) and [TC-019](../TestCases/TC_GroundBattles_CoreGameplay.md) PASS
+3. Binoculars/gun sight zoom near wrecks and objects → [TC-014](../TestCases/TC_GroundBattles_CoreGameplay.md) FAIL (Known Issue: BR-001)
+4. Alt-tab stress test during match → [TC-017](../TestCases/TC_GroundBattles_CoreGameplay.md) PASS
 
 ## Findings
 
